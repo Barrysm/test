@@ -11,3 +11,6 @@ I want to push my change.
 another one pushed his change.
 I change the file .
 I change the file too.
+another one change the file .
+change the file 
+We worked so hard.
